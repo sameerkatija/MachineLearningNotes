@@ -27,7 +27,8 @@ Everything you need to know about Machine Learning and Data Science.
 21. [Titanic Machine Learning Competition](./Titanic-Machine-Learning-Competition.ipynb)
 22. [heart Disease Classification](./heart-disease-classification.ipynb)
 23. [Bulldozer price regression](./Bulldozer-price-regression.ipynb)
-24. [Dog Breed Identification using TensorFlow](./Dog-Breed-Identification.ipynb)
+24. [K Nearest Neighbors Project](./K-Nearest-Neighbors-Project.ipynb)
+25. [Dog Breed Identification using TensorFlow](./Dog-Breed-Identification.ipynb)
 
 ## Resources Repo
 
