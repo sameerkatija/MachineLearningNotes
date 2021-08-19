@@ -29,7 +29,9 @@ Everything you need to know about Machine Learning and Data Science.
 23. [Bulldozer price regression](./Bulldozer-price-regression.ipynb)
 24. [K Nearest Neighbors Project](./K-Nearest-Neighbors-Project.ipynb)
 25. [Decision Trees and Random Forest Project](./Decision-Trees-and-Random-Forest-Project.ipynb)
-26. [Dog Breed Identification using TensorFlow](./Dog-Breed-Identification.ipynb)
+26. [K Means Clustering Project](./K-Means-Clustering-Project.ipynb)
+27. [Support Vector Machines Project](./Support-Vector-Machines-Project.ipynb)
+28. [Dog Breed Identification using TensorFlow](./Dog-Breed-Identification.ipynb)
 
 ## Resources Repo
 
