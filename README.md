@@ -32,7 +32,8 @@ Everything you need to know about Machine Learning and Data Science.
 26. [K Means Clustering Project](./K-Means-Clustering-Project.ipynb)
 27. [Support Vector Machines Project](./Support-Vector-Machines-Project.ipynb)
 28. [Principal component Analysis](./Principal-component-Analysis.ipynb)
-29. [Dog Breed Identification using TensorFlow](./Dog-Breed-Identification.ipynb)
+29. [Multi variable Regression](./Multi-variable-Regression.ipynb)
+30. [Dog Breed Identification using TensorFlow](./Dog-Breed-Identification.ipynb)
 
 ## Resources Repo
 
