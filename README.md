@@ -2,6 +2,8 @@
 
 Everything you need to know about Machine Learning and Data Science.
 
+Go to [Deep Learning](./Deep%20Learning)
+
 ## Content
 
 1. [Data Science Road Map](./DataScienceRoadmap.md)
