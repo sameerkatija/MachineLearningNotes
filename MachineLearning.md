@@ -284,3 +284,4 @@ The ability for a machine learning model to perform well on data it hasn't seen 
 - The most effective machine learning people is they're very clear-eyed about what to tune in order to try to achieve one effect. This is a process we call orthogonalization.
 - It's not always easy to combine all the things you care about into a single row number evaluation metric. In those cases I've found it sometimes useful to set up satisficing as well as optimizing matrix.
 - a larger neural network is formed by taking many of the single neurons and stacking them together. So, if you think of this neuron that's being like a single Lego brick, you then get a bigger neural network by stacking together many of these Lego bricks.
+- Scale has been driving deep learning progress and by scale I mean both the size of the neural network we need just a new network a lot of hidden units a lot of parameters a lot of connections as well as scale of the data.
