@@ -124,6 +124,19 @@ There are two primary uses for data visualization:
 
 Data Cleaning is a very active part of data analysis. It allows you to add data and calculations, and reshape data into the way you need it for reporting, charts, and futher analysis.
 
+### 13. Confounder
+
+An extraneous variable that may affect the relationship between the dependent and independent variables.
+
+### 14. Data Analysis Process.
+
+1. Ask
+2. Prepare
+3. Process
+4. Analyze
+5. Share
+6. Act.
+
 ### Important Points
 
 - The ability to understand what creates economic value in an organization and in industury is key strength
@@ -164,3 +177,7 @@ Data Cleaning is a very active part of data analysis. It allows you to add data 
   4.  Modeling data
   5.  Using data to inform decision-making
 - A chart is worth of thousands line of data
+- A good data scientist asks questions first and seeks out relevant data second.
+- You could have all the data you could ever hope for, but if you don’t have a question to start, the data is useless.
+- This “balancing” of confounders is often achieved by randomization.
+- Clean data is the key to making sure your data has integrity before you analyze it.
